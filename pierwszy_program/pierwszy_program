@@ -1,0 +1,8 @@
+#include <studio.h> /*bibloteka standardowa input-output */
+
+/* y = f(x) */
+/*     f(0 => 0 */
+
+int main() /*funkcja głowna programu */
+
+/* int -> typ zwracanej wartości 9int - wartosc całkowita) */ 
